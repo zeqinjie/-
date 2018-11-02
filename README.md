@@ -1,2 +1,2 @@
 # FilecharacterDetectionTool
-繁体字检测工具
+![pic](tmp18fd9b76.png)
